@@ -27,11 +27,6 @@ sections:
         referral: ""
         what: "One key and one bill for hundreds of models from many labs."
         for: "Trying and switching between models"
-      - name: "Kyma API"
-        url: https://kymaapi.com
-        referral: ""
-        what: "One key and one balance for chat, image, video and audio models."
-        for: "Switching models without a new account for each lab"
   - id: builders
     title: "Build an app by describing it"
     intro: "You describe what you want, an agent writes and runs the code. Good for prototypes and small tools; read the security page before giving one your data."
