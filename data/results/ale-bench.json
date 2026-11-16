@@ -1,6 +1,6 @@
 {
   "benchmark": "ale-bench",
-  "fetched_at": "2026-11-09T16:13:54+00:00",
+  "fetched_at": "2026-11-16T15:42:19+00:00",
   "meta": {
     "url": "https://sakanaai.github.io/ALE-Bench-Leaderboard/",
     "via": "https://epoch.ai/benchmarks",
@@ -42,6 +42,19 @@
       "effort": "max",
       "org": "OpenAI",
       "release_date": "2026-10-26",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "fable-5-2",
+      "model_raw": "claude-fable-5.2-high",
+      "score": 2509.8,
+      "ci": null,
+      "effort": "high",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -119,7 +132,7 @@
       "ci": null,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -197,7 +210,7 @@
       "ci": null,
       "effort": "low",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -211,6 +224,19 @@
       "effort": "xhigh",
       "org": "Meta AI",
       "release_date": "2026-09-02",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "qwen3-8-max",
+      "model_raw": "qwen3.8-max-0902-xhigh",
+      "score": 1679.12,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Alibaba",
+      "release_date": "2026-09-01",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -328,6 +354,19 @@
       "effort": "high",
       "org": "Anthropic",
       "release_date": "2026-05-28",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "grok-4-7",
+      "model_raw": "grok-4.7-xhigh",
+      "score": 1545.85,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "xAI",
+      "release_date": "2026-09-21",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -568,6 +607,19 @@
     },
     {
       "benchmark": "ale-bench",
+      "model": "gpt-5-1-codex",
+      "model_raw": "gpt-5.1-codex-max-xhigh",
+      "score": 1228.25,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2025-11-19",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
       "model": "large-4-0",
       "model_raw": "mistral-large-4",
       "score": 1213.15,
@@ -711,6 +763,19 @@
     },
     {
       "benchmark": "ale-bench",
+      "model": "beam-1-0",
+      "model_raw": "beam-1.0-501b-a23b-max",
+      "score": 1097.53,
+      "ci": null,
+      "effort": "max",
+      "org": "Reflection",
+      "release_date": "2026-10-05",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
       "model": "kimi-k2-6",
       "model_raw": "kimi-k2.6",
       "score": 1092.67,
@@ -744,6 +809,19 @@
       "effort": "none",
       "org": "OpenAI",
       "release_date": "2026-03-05",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "gemini-3-1-pro-preview",
+      "model_raw": "gemini-3.1-pro-preview-low",
+      "score": 1054.78,
+      "ci": null,
+      "effort": "low",
+      "org": "Google DeepMind",
+      "release_date": "2026-02-19",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -822,6 +900,19 @@
       "effort": null,
       "org": "Anthropic",
       "release_date": "2026-02-05",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "gemini-3-pro-preview",
+      "model_raw": "gemini-3-pro-preview-low",
+      "score": 988.23,
+      "ci": null,
+      "effort": "low",
+      "org": "Google DeepMind",
+      "release_date": "2025-11-18",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -1296,13 +1387,13 @@
     },
     {
       "benchmark": "ale-bench",
-      "model": "qwen3-5-plus",
+      "model": "qwen3-5-397b-a17b",
       "model_raw": "qwen3.5-397b-a17b",
       "score": 621.92,
       "ci": null,
       "effort": null,
       "org": "Alibaba",
-      "release_date": "2026-02-16",
+      "release_date": "2026-02-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -1316,6 +1407,19 @@
       "effort": null,
       "org": "MiniMax",
       "release_date": "2026-02-12",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "qwen3-5-plus",
+      "model_raw": "qwen3.5-plus",
+      "score": 608.92,
+      "ci": null,
+      "effort": null,
+      "org": "Alibaba",
+      "release_date": "2026-02-16",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -1634,6 +1738,19 @@
     },
     {
       "benchmark": "ale-bench",
+      "model": "qwen3-5-flash",
+      "model_raw": "qwen3.5-flash",
+      "score": 265.93,
+      "ci": null,
+      "effort": null,
+      "org": "Alibaba",
+      "release_date": "2026-02-25",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
       "model": "large-2512",
       "model_raw": "mistral-large-3-2512",
       "score": 264.7,
@@ -1660,13 +1777,13 @@
     },
     {
       "benchmark": "ale-bench",
-      "model": "qwen3-5-flash",
+      "model": "qwen3-5-35b-a3b",
       "model_raw": "qwen3.5-35b-a3b",
       "score": 221.8,
       "ci": null,
       "effort": null,
       "org": "Alibaba",
-      "release_date": "2026-02-25",
+      "release_date": "2026-02-24",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

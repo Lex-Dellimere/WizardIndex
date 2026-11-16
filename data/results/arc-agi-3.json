@@ -1,6 +1,6 @@
 {
   "benchmark": "arc-agi-3",
-  "fetched_at": "2026-11-09T16:13:54+00:00",
+  "fetched_at": "2026-11-16T15:42:18+00:00",
   "meta": {
     "url": "https://arcprize.org/leaderboard",
     "dataset": "v3_Semi_Private"
@@ -1438,6 +1438,201 @@
       "release_date": "2026-10-17",
       "notes": [
         "Evaluation conducted with 'max' reasoning effort using the provider adapter harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Max)",
+      "score": 65.663,
+      "ci": null,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'max' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (XHigh)",
+      "score": 81.167,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (High)",
+      "score": 79.263,
+      "ci": null,
+      "effort": "high",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Medium)",
+      "score": 73.318,
+      "ci": null,
+      "effort": "medium",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Low)",
+      "score": 52.0,
+      "ci": null,
+      "effort": "low",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 - Provider Adapter (Max)",
+      "score": 94.903,
+      "ci": null,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'max' reasoning effort using the provider adapter harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 - Provider Adapter (XHigh)",
+      "score": 97.265,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the provider adapter harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 - Provider Adapter (High)",
+      "score": 97.722,
+      "ci": null,
+      "effort": "high",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the provider adapter harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 - Provider Adapter (Medium)",
+      "score": 96.788,
+      "ci": null,
+      "effort": "medium",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the provider adapter harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 - Provider Adapter (Low)",
+      "score": 92.311,
+      "ci": null,
+      "effort": "low",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the provider adapter harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon (Medium)",
+      "score": 63.855,
+      "ci": null,
+      "effort": "medium",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon (Low)",
+      "score": 65.124,
+      "ci": null,
+      "effort": "low",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon - Provider Adapter (High)",
+      "score": 96.853,
+      "ci": null,
+      "effort": "high",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the provider adapter harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon - Provider Adapter (Medium)",
+      "score": 99.086,
+      "ci": null,
+      "effort": "medium",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the provider adapter harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-3",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon - Provider Adapter (Low)",
+      "score": 97.676,
+      "ci": null,
+      "effort": "low",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the provider adapter harness."
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "benchmark": "blueprint-bench",
-  "fetched_at": "2026-11-09T16:13:54+00:00",
+  "fetched_at": "2026-11-16T15:42:19+00:00",
   "meta": {
     "url": "https://andonlabs.com/evals/blueprint-bench-2",
     "via": "https://epoch.ai/benchmarks",
@@ -392,7 +392,7 @@
       "ci": null,
       "effort": "unknown",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
       ]
@@ -444,7 +444,7 @@
       "ci": null,
       "effort": "unknown",
       "org": "Google DeepMind",
-      "release_date": "2026-10-28",
+      "release_date": "2026-11-10",
       "notes": [
         "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
       ]
@@ -458,6 +458,32 @@
       "effort": "unknown",
       "org": "OpenAI",
       "release_date": "2026-10-26",
+      "notes": [
+        "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
+      ]
+    },
+    {
+      "benchmark": "blueprint-bench",
+      "model": "gpt-6-1-sol",
+      "model_raw": "GPT-6.1 Sol",
+      "score": 43.167,
+      "ci": null,
+      "effort": "unknown",
+      "org": "OpenAI",
+      "release_date": "2026-09-29",
+      "notes": [
+        "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
+      ]
+    },
+    {
+      "benchmark": "blueprint-bench",
+      "model": "muse-wonder-1-0",
+      "model_raw": "Muse Wonder",
+      "score": 31.67,
+      "ci": null,
+      "effort": "unknown",
+      "org": "Meta AI",
+      "release_date": "2026-10-12",
       "notes": [
         "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
       ]

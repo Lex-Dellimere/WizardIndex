@@ -1,6 +1,6 @@
 {
   "benchmark": "weirdml",
-  "fetched_at": "2026-11-09T16:13:54+00:00",
+  "fetched_at": "2026-11-16T15:42:18+00:00",
   "meta": {
     "url": "https://htihle.github.io/weirdml.html",
     "via": "https://epoch.ai/benchmarks",
@@ -249,11 +249,11 @@
       "benchmark": "weirdml",
       "model": "gemini-4-argon",
       "model_raw": "Gemini 4 Argon (high)",
-      "score": 20.096,
+      "score": 20.262,
       "ci": null,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://htihle.github.io/weirdml.html",
         "harness: gemini_cli"
@@ -263,7 +263,7 @@
       "benchmark": "weirdml",
       "model": "muse-wonder-1-0",
       "model_raw": "Muse Wonder (xhigh)",
-      "score": 15.191,
+      "score": 15.172,
       "ci": null,
       "effort": "xhigh",
       "org": "Meta AI",
@@ -355,6 +355,20 @@
       "notes": [
         "via Epoch AI; source: https://htihle.github.io/weirdml.html",
         "harness: codex_cli"
+      ]
+    },
+    {
+      "benchmark": "weirdml",
+      "model": "kimi-k3-1-pro",
+      "model_raw": "Kimi K3.1 Pro (xhigh, Fireworks)",
+      "score": 9.89,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Moonshot",
+      "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: https://htihle.github.io/weirdml.html",
+        "harness: kimi_code"
       ]
     }
   ]

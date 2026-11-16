@@ -1,12 +1,25 @@
 {
   "benchmark": "mystery-game-puzzles",
-  "fetched_at": "2026-11-09T16:13:54+00:00",
+  "fetched_at": "2026-11-16T15:42:18+00:00",
   "meta": {
     "url": "https://epoch.ai/benchmarks/mystery-game-puzzles",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "mystery-game-puzzles",
+      "model": "fable-5-2",
+      "model_raw": "claude-fable-5-2_max",
+      "score": 90.0,
+      "ci": 5.91,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "mystery-game-puzzles",
       "model": "kimi-k3-1-pro-together",
@@ -16,6 +29,19 @@
       "effort": "max",
       "org": "Moonshot",
       "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mystery-game-puzzles",
+      "model": "gemini-4-carbon",
+      "model_raw": "gemini-4-carbon_high",
+      "score": 73.0,
+      "ci": 8.75,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -93,7 +119,7 @@
       "ci": 9.46,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

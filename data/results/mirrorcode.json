@@ -1,12 +1,181 @@
 {
   "benchmark": "mirrorcode",
-  "fetched_at": "2026-11-09T16:13:46+00:00",
+  "fetched_at": "2026-11-16T15:42:04+00:00",
   "meta": {
     "url": "https://epoch.ai/benchmarks",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "mirrorcode",
+      "model": "large-4-0",
+      "model_raw": "mistral-large-4-0_high",
+      "score": 40.0,
+      "ci": 20.86,
+      "effort": "high",
+      "org": "Mistral AI",
+      "release_date": "2026-10-06",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "fable-5",
+      "model_raw": "claude-fable-5_max",
+      "score": 70.0,
+      "ci": 20.46,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-06-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "opus-4-7",
+      "model_raw": "claude-opus-4-7_max",
+      "score": 43.333,
+      "ci": 18.81,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-04-16",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "opus-5-5",
+      "model_raw": "claude-opus-5-5_max",
+      "score": 95.556,
+      "ci": 5.01,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-09-22",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-6-1-terra",
+      "model_raw": "gpt-6.1-terra_max",
+      "score": 76.667,
+      "ci": 18.26,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-10-26",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-6-sol",
+      "model_raw": "gpt-6-sol_max",
+      "score": 48.889,
+      "ci": 21.96,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-09-22",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "grok-4-7",
+      "model_raw": "grok-4.7_xhigh",
+      "score": 54.444,
+      "ci": 22.42,
+      "effort": "xhigh",
+      "org": "xAI",
+      "release_date": "2026-09-21",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-5-4",
+      "model_raw": "gpt-5.4-2026-03-05_xhigh",
+      "score": 23.333,
+      "ci": 15.88,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2026-03-05",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-6-astra",
+      "model_raw": "gpt-6-astra_max",
+      "score": 60.0,
+      "ci": 23.16,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-09-03",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-5-5",
+      "model_raw": "gpt-5.5_xhigh",
+      "score": 23.333,
+      "ci": 19.86,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2026-04-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-5-2",
+      "model_raw": "gpt-5.2-2025-12-11_xhigh",
+      "score": 32.222,
+      "ci": 19.51,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2025-12-11",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "glm-5-2",
+      "model_raw": "glm-5.2_max",
+      "score": 36.667,
+      "ci": 22.59,
+      "effort": "max",
+      "org": "Z.ai (Zhipu AI)",
+      "release_date": "2026-06-16",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "deepseek-v4-1-flash",
+      "model_raw": "deepseek-v4.1-flash_max",
+      "score": 64.444,
+      "ci": 22.29,
+      "effort": "max",
+      "org": "DeepSeek",
+      "release_date": "2026-09-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "mirrorcode",
       "model": "gemini-3-7-flash",
@@ -35,6 +204,58 @@
     },
     {
       "benchmark": "mirrorcode",
+      "model": "gpt-5-6-luna",
+      "model_raw": "gpt-5.6-luna_max",
+      "score": 21.111,
+      "ci": 19.25,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-07-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "qwen3-8-max",
+      "model_raw": "qwen3.8-max-0902_xhigh",
+      "score": 47.778,
+      "ci": 20.13,
+      "effort": "xhigh",
+      "org": "Alibaba",
+      "release_date": "2026-09-01",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "haiku-5-5",
+      "model_raw": "claude-haiku-5-5_max",
+      "score": 78.889,
+      "ci": 15.77,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-10-07",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gemini-3-6-flash",
+      "model_raw": "gemini-3.6-flash_high",
+      "score": 23.333,
+      "ci": 18.26,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-07-21",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
       "model": "grok-4-6",
       "model_raw": "grok-4.6_xhigh",
       "score": 41.111,
@@ -42,6 +263,32 @@
       "effort": "xhigh",
       "org": "xAI",
       "release_date": "2026-08-12",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "opus-4-6",
+      "model_raw": "claude-opus-4-6_max",
+      "score": 33.333,
+      "ci": 19.65,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-02-05",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "sonnet-5",
+      "model_raw": "claude-sonnet-5_max",
+      "score": 63.333,
+      "ci": 20.95,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-06-30",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -74,13 +321,130 @@
     },
     {
       "benchmark": "mirrorcode",
+      "model": "qwen3-8-max",
+      "model_raw": "qwen3.8-max_xhigh",
+      "score": 52.222,
+      "ci": 21.35,
+      "effort": "xhigh",
+      "org": "Alibaba",
+      "release_date": "2026-08-02",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "opus-4-8",
+      "model_raw": "claude-opus-4-8_max",
+      "score": 65.556,
+      "ci": 21.26,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-05-28",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "muse-spark-1-3",
+      "model_raw": "muse-spark-1.3_max",
+      "score": 54.444,
+      "ci": 21.26,
+      "effort": "max",
+      "org": "Meta AI",
+      "release_date": "2026-09-02",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-5-6-terra",
+      "model_raw": "gpt-5.6-terra_max",
+      "score": 41.111,
+      "ci": 24.25,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-07-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "opus-5",
+      "model_raw": "claude-opus-5_max",
+      "score": 87.778,
+      "ci": 14.07,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-07-24",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "deepseek-v4-pro-0813",
+      "model_raw": "deepseek-v4-pro-0813_max",
+      "score": 33.333,
+      "ci": 19.65,
+      "effort": "max",
+      "org": "DeepSeek",
+      "release_date": "2026-08-13",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "muse-wonder-1-0",
+      "model_raw": "muse-wonder-1.0_max",
+      "score": 45.556,
+      "ci": 20.77,
+      "effort": "max",
+      "org": "Meta AI",
+      "release_date": "2026-10-12",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
       "model": "gemini-4-argon",
       "model_raw": "gemini-4-argon_high",
       "score": 58.889,
       "ci": 22.96,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-6-1-sol",
+      "model_raw": "gpt-6.1-sol_max",
+      "score": 61.111,
+      "ci": 22.24,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-09-29",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "sonnet-5-5",
+      "model_raw": "claude-sonnet-5-5_max",
+      "score": 97.778,
+      "ci": 2.97,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-09-28",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -107,6 +471,45 @@
       "effort": "high",
       "org": "Anthropic",
       "release_date": "2026-09-01",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "fable-5-1",
+      "model_raw": "claude-fable-5-1_max",
+      "score": 93.333,
+      "ci": 7.68,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-09-01",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "kimi-k3",
+      "model_raw": "kimi-k3_max",
+      "score": 54.444,
+      "ci": 22.42,
+      "effort": "max",
+      "org": "Moonshot",
+      "release_date": "2026-07-16",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gemini-3-8-flash",
+      "model_raw": "gemini-3.8-flash_high",
+      "score": 38.889,
+      "ci": 23.35,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-09-02",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

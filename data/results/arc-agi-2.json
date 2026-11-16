@@ -1,6 +1,6 @@
 {
   "benchmark": "arc-agi-2",
-  "fetched_at": "2026-11-09T16:13:53+00:00",
+  "fetched_at": "2026-11-16T15:42:16+00:00",
   "meta": {
     "url": "https://arcprize.org/leaderboard",
     "dataset": "v2_Semi_Private"
@@ -3471,6 +3471,110 @@
       "release_date": "2026-11-05",
       "notes": [
         "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Max)",
+      "score": 92.5,
+      "ci": null,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'max' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (XHigh)",
+      "score": 93.75,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (High)",
+      "score": 90.417,
+      "ci": null,
+      "effort": "high",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Medium)",
+      "score": 89.583,
+      "ci": null,
+      "effort": "medium",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (Low)",
+      "score": 86.667,
+      "ci": null,
+      "effort": "low",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon (High)",
+      "score": 92.083,
+      "ci": null,
+      "effort": "high",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon (Medium)",
+      "score": 94.167,
+      "ci": null,
+      "effort": "medium",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon (Low)",
+      "score": 49.583,
+      "ci": null,
+      "effort": "low",
+      "org": "Google",
+      "release_date": "2026-11-10",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
       ]
     }
   ]
