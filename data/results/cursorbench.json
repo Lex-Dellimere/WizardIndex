@@ -1,6 +1,6 @@
 {
   "benchmark": "cursorbench",
-  "fetched_at": "2026-11-09T16:30:14+00:00",
+  "fetched_at": "2026-11-16T15:56:52+00:00",
   "meta": {
     "url": "https://cursor.com/cursorbench",
     "via": "https://epoch.ai/benchmarks",
@@ -834,7 +834,7 @@
       "ci": null,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://cursor.com/cursorbench"
       ]
@@ -847,7 +847,7 @@
       "ci": null,
       "effort": "medium",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://cursor.com/cursorbench"
       ]
@@ -860,7 +860,7 @@
       "ci": null,
       "effort": "low",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://cursor.com/cursorbench"
       ]
@@ -873,7 +873,7 @@
       "ci": null,
       "effort": "minimal",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://cursor.com/cursorbench"
       ]
@@ -1069,6 +1069,110 @@
       "effort": "low",
       "org": "DeepSeek",
       "release_date": "2026-10-17",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon High",
+      "score": 60.4,
+      "ci": null,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon Medium",
+      "score": 60.1,
+      "ci": null,
+      "effort": "medium",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "fable-5-2",
+      "model_raw": "Fable 5.2 Max",
+      "score": 60.0,
+      "ci": null,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon Low",
+      "score": 58.6,
+      "ci": null,
+      "effort": "low",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "fable-5-2",
+      "model_raw": "Fable 5.2 High",
+      "score": 56.9,
+      "ci": null,
+      "effort": "high",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "fable-5-2",
+      "model_raw": "Fable 5.2 Extra High",
+      "score": 56.3,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "fable-5-2",
+      "model_raw": "Fable 5.2 Medium",
+      "score": 54.8,
+      "ci": null,
+      "effort": "medium",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://cursor.com/cursorbench"
+      ]
+    },
+    {
+      "benchmark": "cursorbench",
+      "model": "fable-5-2",
+      "model_raw": "Fable 5.2 Low",
+      "score": 53.2,
+      "ci": null,
+      "effort": "low",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
       "notes": [
         "via Epoch AI; source: https://cursor.com/cursorbench"
       ]

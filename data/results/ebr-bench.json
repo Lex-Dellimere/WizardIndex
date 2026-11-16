@@ -1,12 +1,38 @@
 {
   "benchmark": "ebr-bench",
-  "fetched_at": "2026-11-09T16:30:22+00:00",
+  "fetched_at": "2026-11-16T15:57:07+00:00",
   "meta": {
     "url": "https://epoch.ai/benchmarks/ebr-bench",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "ebr-bench",
+      "model": "fable-5-2",
+      "model_raw": "claude-fable-5-2_max",
+      "score": 90.476,
+      "ci": 2.95,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "gemini-4-carbon",
+      "model_raw": "gemini-4-carbon_high",
+      "score": 87.619,
+      "ci": 13.4,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "ebr-bench",
       "model": "large-4-0-oss",
@@ -41,7 +67,7 @@
       "ci": 9.61,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

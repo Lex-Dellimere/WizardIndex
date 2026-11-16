@@ -1,11 +1,50 @@
 {
   "benchmark": "simplebench",
-  "fetched_at": "2026-11-09T16:30:21+00:00",
+  "fetched_at": "2026-11-16T15:57:07+00:00",
   "meta": {
     "url": "https://simple-bench.com/",
     "data": "https://simple-bench.com/static/js/leaderboard-data.js"
   },
   "results": [
+    {
+      "benchmark": "simplebench",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2",
+      "score": 94.9,
+      "ci": null,
+      "effort": null,
+      "org": "Anthropic",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-10"
+      ]
+    },
+    {
+      "benchmark": "simplebench",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon",
+      "score": 92.6,
+      "ci": null,
+      "effort": null,
+      "org": "Google",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-10"
+      ]
+    },
+    {
+      "benchmark": "simplebench",
+      "model": "gemini-4-argon",
+      "model_raw": "Gemini 4 Argon",
+      "score": 91.7,
+      "ci": null,
+      "effort": null,
+      "org": "Google",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-10"
+      ]
+    },
     {
       "benchmark": "simplebench",
       "model": "opus-5-5",
@@ -225,6 +264,32 @@
       "release_date": null,
       "notes": [
         "added to the leaderboard 2026-09-24"
+      ]
+    },
+    {
+      "benchmark": "simplebench",
+      "model": "muse-ember",
+      "model_raw": "Muse Ember",
+      "score": 72.7,
+      "ci": null,
+      "effort": null,
+      "org": "Meta",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-10"
+      ]
+    },
+    {
+      "benchmark": "simplebench",
+      "model": "gpt-6-1-terra",
+      "model_raw": "GPT-6.1 Terra",
+      "score": 72.2,
+      "ci": null,
+      "effort": null,
+      "org": "OpenAI",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-10"
       ]
     },
     {
@@ -511,6 +576,19 @@
       "release_date": null,
       "notes": [
         "average of 5 runs"
+      ]
+    },
+    {
+      "benchmark": "simplebench",
+      "model": "haiku-5-5",
+      "model_raw": "Claude Haiku 5.5",
+      "score": 59.2,
+      "ci": null,
+      "effort": null,
+      "org": "Anthropic",
+      "release_date": null,
+      "notes": [
+        "added to the leaderboard 2026-11-12"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "benchmark": "webdev-arena",
-  "fetched_at": "2026-11-09T16:30:17+00:00",
+  "fetched_at": "2026-11-16T15:56:54+00:00",
   "meta": {
     "url": "https://web.lmarena.ai/leaderboard",
     "via": "https://epoch.ai/benchmarks",
@@ -119,7 +119,7 @@
       "ci": null,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://arena.ai/leaderboard"
       ]

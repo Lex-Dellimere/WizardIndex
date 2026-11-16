@@ -1,12 +1,26 @@
 {
   "benchmark": "frontierswe",
-  "fetched_at": "2026-11-09T16:30:14+00:00",
+  "fetched_at": "2026-11-16T15:56:52+00:00",
   "meta": {
     "url": "https://www.frontierswe.com/",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "frontierswe",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2",
+      "score": 69.94,
+      "ci": null,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://www.frontierswe.com/",
+        "harness: proximus"
+      ]
+    },
     {
       "benchmark": "frontierswe",
       "model": "gpt-6-astra",
@@ -51,6 +65,20 @@
     },
     {
       "benchmark": "frontierswe",
+      "model": "gemini-4-carbon",
+      "model_raw": "Gemini 4 Carbon",
+      "score": 61.199,
+      "ci": null,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
+      "notes": [
+        "via Epoch AI; source: https://www.frontierswe.com/",
+        "harness: proximus"
+      ]
+    },
+    {
+      "benchmark": "frontierswe",
       "model": "fable-5-1",
       "model_raw": "Claude Fable 5.1",
       "score": 56.291,
@@ -71,7 +99,7 @@
       "ci": null,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: https://www.frontierswe.com/",
         "harness: proximus"

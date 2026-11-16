@@ -1,12 +1,25 @@
 {
   "benchmark": "frontiermath",
-  "fetched_at": "2026-11-09T16:30:21+00:00",
+  "fetched_at": "2026-11-16T15:57:05+00:00",
   "meta": {
     "url": "https://epoch.ai/frontiermath",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "frontiermath",
+      "model": "fable-5-2",
+      "model_raw": "claude-fable-5-2_max",
+      "score": 95.088,
+      "ci": 2.51,
+      "effort": "max",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "frontiermath",
       "model": "kimi-k3-1-pro-together",
@@ -16,6 +29,19 @@
       "effort": "max",
       "org": "Moonshot",
       "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "frontiermath",
+      "model": "gemini-4-carbon",
+      "model_raw": "gemini-4-carbon_high",
+      "score": 90.526,
+      "ci": 3.41,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -67,7 +93,7 @@
       "ci": 4.04,
       "effort": "high",
       "org": "Google DeepMind",
-      "release_date": "2026-09-30",
+      "release_date": "2026-10-13",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
