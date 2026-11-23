@@ -1,6 +1,6 @@
 {
   "benchmark": "blueprint-bench",
-  "fetched_at": "2026-11-16T15:42:19+00:00",
+  "fetched_at": "2026-11-23T18:20:43+00:00",
   "meta": {
     "url": "https://andonlabs.com/evals/blueprint-bench-2",
     "via": "https://epoch.ai/benchmarks",
@@ -484,6 +484,45 @@
       "effort": "unknown",
       "org": "Meta AI",
       "release_date": "2026-10-12",
+      "notes": [
+        "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
+      ]
+    },
+    {
+      "benchmark": "blueprint-bench",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2",
+      "score": 56.616,
+      "ci": null,
+      "effort": "unknown",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
+      ]
+    },
+    {
+      "benchmark": "blueprint-bench",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra",
+      "score": 61.388,
+      "ci": null,
+      "effort": "unknown",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
+      ]
+    },
+    {
+      "benchmark": "blueprint-bench",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol",
+      "score": 57.05,
+      "ci": null,
+      "effort": "unknown",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
       "notes": [
         "via Epoch AI; source: https://andonlabs.com/evals/blueprint-bench-2"
       ]

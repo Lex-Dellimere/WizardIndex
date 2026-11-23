@@ -1,6 +1,6 @@
 {
   "benchmark": "weirdml",
-  "fetched_at": "2026-11-16T15:42:18+00:00",
+  "fetched_at": "2026-11-23T18:20:42+00:00",
   "meta": {
     "url": "https://htihle.github.io/weirdml.html",
     "via": "https://epoch.ai/benchmarks",
@@ -263,7 +263,7 @@
       "benchmark": "weirdml",
       "model": "muse-wonder-1-0",
       "model_raw": "Muse Wonder (xhigh)",
-      "score": 15.172,
+      "score": 15.138,
       "ci": null,
       "effort": "xhigh",
       "org": "Meta AI",
@@ -305,7 +305,7 @@
       "benchmark": "weirdml",
       "model": "large-4-0",
       "model_raw": "Mistral Large 4 (high, Mistral)",
-      "score": 4.446,
+      "score": 4.196,
       "ci": null,
       "effort": "high",
       "org": "Mistral AI",
@@ -333,7 +333,7 @@
       "benchmark": "weirdml",
       "model": "deepseek-v4-1-flash-1017",
       "model_raw": "DeepSeek V4.1 Flash 1017 (high, InferenceNet)",
-      "score": 9.191,
+      "score": 9.101,
       "ci": null,
       "effort": "high",
       "org": "DeepSeek",
@@ -369,6 +369,20 @@
       "notes": [
         "via Epoch AI; source: https://htihle.github.io/weirdml.html",
         "harness: kimi_code"
+      ]
+    },
+    {
+      "benchmark": "weirdml",
+      "model": "fable-5-2",
+      "model_raw": "Claude Fable 5.2 (xhigh)",
+      "score": 43.089,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Anthropic",
+      "release_date": "2026-11-09",
+      "notes": [
+        "via Epoch AI; source: https://htihle.github.io/weirdml.html",
+        "harness: claude_code"
       ]
     }
   ]

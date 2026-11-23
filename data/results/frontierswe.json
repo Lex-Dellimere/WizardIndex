@@ -1,6 +1,6 @@
 {
   "benchmark": "frontierswe",
-  "fetched_at": "2026-11-16T15:42:04+00:00",
+  "fetched_at": "2026-11-23T18:20:28+00:00",
   "meta": {
     "url": "https://www.frontierswe.com/",
     "via": "https://epoch.ai/benchmarks",
@@ -100,6 +100,20 @@
       "effort": "high",
       "org": "Google DeepMind",
       "release_date": "2026-10-13",
+      "notes": [
+        "via Epoch AI; source: https://www.frontierswe.com/",
+        "harness: proximus"
+      ]
+    },
+    {
+      "benchmark": "frontierswe",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "Gemini 4 Hydrogen",
+      "score": 53.113,
+      "ci": null,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-12",
       "notes": [
         "via Epoch AI; source: https://www.frontierswe.com/",
         "harness: proximus"
@@ -226,6 +240,20 @@
       "effort": "xhigh",
       "org": "xAI",
       "release_date": "2026-08-12",
+      "notes": [
+        "via Epoch AI; source: https://www.frontierswe.com/",
+        "harness: proximus"
+      ]
+    },
+    {
+      "benchmark": "frontierswe",
+      "model": "inkling-2-small",
+      "model_raw": "Inkling 2 Small",
+      "score": 25.07,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Thinking Machines",
+      "release_date": "2026-11-05",
       "notes": [
         "via Epoch AI; source: https://www.frontierswe.com/",
         "harness: proximus"

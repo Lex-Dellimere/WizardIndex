@@ -1,12 +1,77 @@
 {
   "benchmark": "ebr-bench",
-  "fetched_at": "2026-11-16T15:42:18+00:00",
+  "fetched_at": "2026-11-23T18:20:42+00:00",
   "meta": {
     "url": "https://epoch.ai/benchmarks/ebr-bench",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "ebr-bench",
+      "model": "qwen4",
+      "model_raw": "qwen4-max_xhigh",
+      "score": 40.0,
+      "ci": 5.6,
+      "effort": "xhigh",
+      "org": "Alibaba",
+      "release_date": "2026-11-16",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "gemini-4-neon",
+      "model_raw": "gemini-4-neon_xhigh",
+      "score": 98.095,
+      "ci": 2.29,
+      "effort": "xhigh",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-18",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "muse-ember-1-0",
+      "model_raw": "muse-ember-1.0_max",
+      "score": 17.143,
+      "ci": 4.76,
+      "effort": "max",
+      "org": "Meta AI",
+      "release_date": null,
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "gemini-4-hydrogen_xhigh",
+      "score": 70.476,
+      "ci": 12.31,
+      "effort": "xhigh",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-12",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "kimi-k3-1-pro-together",
+      "model_raw": "kimi-k3.1-pro-together_max",
+      "score": 37.143,
+      "ci": 5.44,
+      "effort": "max",
+      "org": "Moonshot",
+      "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "ebr-bench",
       "model": "fable-5-2",
@@ -42,6 +107,19 @@
       "effort": "high",
       "org": "Mistral AI",
       "release_date": "2026-10-29",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ebr-bench",
+      "model": "gpt-6-2-astra",
+      "model_raw": "gpt-6.2-astra_max",
+      "score": 92.381,
+      "ci": 9.61,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

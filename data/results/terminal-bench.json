@@ -1,6 +1,6 @@
 {
   "benchmark": "terminal-bench",
-  "fetched_at": "2026-11-16T15:42:15+00:00",
+  "fetched_at": "2026-11-23T18:20:39+00:00",
   "meta": {
     "url": "https://www.tbench.ai",
     "version": "Terminal-Bench 4.0",
@@ -919,11 +919,137 @@
     },
     {
       "benchmark": "terminal-bench",
+      "model": "fusion",
+      "model_raw": "fusion",
+      "score": 71.21,
+      "ci": 2.88,
+      "effort": "max",
+      "org": "GitHub",
+      "release_date": null,
+      "notes": [
+        "agent: GitHub Copilot",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
       "model": "gemini-4-carbon",
       "model_raw": "gemini/gemini-4-carbon",
       "score": 64.55,
       "ci": 3.23,
       "effort": "high",
+      "org": "Google",
+      "release_date": null,
+      "notes": [
+        "agent: Antigravity CLI",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "ember-1",
+      "model_raw": "openrouter/fireworks/ember-1",
+      "score": 21.82,
+      "ci": 3.46,
+      "effort": "none",
+      "org": "Fireworks",
+      "release_date": null,
+      "notes": [
+        "agent: mini-swe-agent",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "gemini-3-1-pro-preview",
+      "model_raw": "gemini/gemini-3.1-pro-preview",
+      "score": 2.73,
+      "ci": 1.68,
+      "effort": "high",
+      "org": "Google",
+      "release_date": null,
+      "notes": [
+        "agent: Antigravity CLI",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "hy4-preview",
+      "model_raw": "openrouter/tencent/hy4-preview",
+      "score": 19.09,
+      "ci": 3.09,
+      "effort": "max",
+      "org": "Tencent",
+      "release_date": null,
+      "notes": [
+        "agent: Claude Code",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "ember-1",
+      "model_raw": "openrouter/fireworks/ember-1",
+      "score": 21.82,
+      "ci": 3.39,
+      "effort": "none",
+      "org": "Fireworks",
+      "release_date": null,
+      "notes": [
+        "agent: mini-swe-agent",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "gpt-6-2-astra",
+      "model_raw": "openai/gpt-6.2-astra",
+      "score": 62.12,
+      "ci": 2.3,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": null,
+      "notes": [
+        "agent: Codex",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "gpt-6-2-sol",
+      "model_raw": "openai/gpt-6.2-sol",
+      "score": 61.52,
+      "ci": 2.75,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": null,
+      "notes": [
+        "agent: Codex",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "hy4-flash",
+      "model_raw": "openrouter/tencent/hy4-flash",
+      "score": 11.82,
+      "ci": 2.85,
+      "effort": "none",
+      "org": "Tencent",
+      "release_date": null,
+      "notes": [
+        "agent: mini-swe-agent",
+        "trials: 330"
+      ]
+    },
+    {
+      "benchmark": "terminal-bench",
+      "model": "gemini-4-neon",
+      "model_raw": "gemini/gemini-4-neon",
+      "score": 61.21,
+      "ci": 2.85,
+      "effort": "xhigh",
       "org": "Google",
       "release_date": null,
       "notes": [

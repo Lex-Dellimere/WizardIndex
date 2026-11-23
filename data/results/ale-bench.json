@@ -1,6 +1,6 @@
 {
   "benchmark": "ale-bench",
-  "fetched_at": "2026-11-16T15:42:19+00:00",
+  "fetched_at": "2026-11-23T18:20:44+00:00",
   "meta": {
     "url": "https://sakanaai.github.io/ALE-Bench-Leaderboard/",
     "via": "https://epoch.ai/benchmarks",
@@ -68,6 +68,19 @@
       "effort": "max",
       "org": "OpenAI",
       "release_date": "2026-09-22",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "gemini-4-carbon",
+      "model_raw": "gemini-4-carbon-high",
+      "score": 2374.7,
+      "ci": null,
+      "effort": "high",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-10",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
@@ -185,6 +198,19 @@
       "effort": "max",
       "org": "Moonshot",
       "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "ale-bench",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "gemini-4-hydrogen-xhigh",
+      "score": 1825.67,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Google DeepMind",
+      "release_date": "2026-11-12",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]

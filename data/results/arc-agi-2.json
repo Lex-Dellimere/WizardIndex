@@ -1,6 +1,6 @@
 {
   "benchmark": "arc-agi-2",
-  "fetched_at": "2026-11-16T15:42:16+00:00",
+  "fetched_at": "2026-11-23T18:20:40+00:00",
   "meta": {
     "url": "https://arcprize.org/leaderboard",
     "dataset": "v2_Semi_Private"
@@ -233,17 +233,6 @@
       "score": 2.08,
       "ci": null,
       "effort": "medium",
-      "org": "OpenAI",
-      "release_date": "2025-01-31",
-      "notes": []
-    },
-    {
-      "benchmark": "arc-agi-2",
-      "model": "o3-mini",
-      "model_raw": "o3-mini (High)",
-      "score": 2.99,
-      "ci": null,
-      "effort": "high",
       "org": "OpenAI",
       "release_date": "2025-01-31",
       "notes": []
@@ -1744,7 +1733,7 @@
       "benchmark": "arc-agi-2",
       "model": "gpt-5-6-terra",
       "model_raw": "GPT-5.6 Terra (Max)",
-      "score": 83.9,
+      "score": 82.5,
       "ci": null,
       "effort": "max",
       "org": "OpenAI",
@@ -3575,6 +3564,253 @@
       "release_date": "2026-11-10",
       "notes": [
         "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "mercury-3-preview",
+      "model_raw": "Mercury 3 Preview (High)",
+      "score": 61.806,
+      "ci": null,
+      "effort": "high",
+      "org": "Inception",
+      "release_date": "2026-10-19",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "mercury-3-preview",
+      "model_raw": "Mercury 3 Preview (Medium)",
+      "score": 41.806,
+      "ci": null,
+      "effort": "medium",
+      "org": "Inception",
+      "release_date": "2026-10-19",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "mercury-3-preview",
+      "model_raw": "Mercury 3 Preview (Low)",
+      "score": 40.972,
+      "ci": null,
+      "effort": "low",
+      "org": "Inception",
+      "release_date": "2026-10-19",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "mercury-3-preview",
+      "model_raw": "Mercury 3 Preview (Instant)",
+      "score": 1.25,
+      "ci": null,
+      "effort": null,
+      "org": "Inception",
+      "release_date": "2026-10-19",
+      "notes": [
+        "Evaluation conducted with 'instant' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra (Max)",
+      "score": 95.833,
+      "ci": null,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'max' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra (XHigh)",
+      "score": 95.833,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra (High)",
+      "score": 94.583,
+      "ci": null,
+      "effort": "high",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra (Medium)",
+      "score": 93.333,
+      "ci": null,
+      "effort": "medium",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-astra",
+      "model_raw": "GPT-6.2 Astra (Low)",
+      "score": 91.667,
+      "ci": null,
+      "effort": "low",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol (Max)",
+      "score": 85.833,
+      "ci": null,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'max' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol (XHigh)",
+      "score": 85.833,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol (High)",
+      "score": 85.833,
+      "ci": null,
+      "effort": "high",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol (Medium)",
+      "score": 82.917,
+      "ci": null,
+      "effort": "medium",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness. Partial dataset coverage: scores use full catalog denominators; costs include recorded usage only, excluding unrecorded attempts."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gpt-6-2-sol",
+      "model_raw": "GPT-6.2 Sol (Low)",
+      "score": 57.917,
+      "ci": null,
+      "effort": "low",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "Gemini 4 Hydrogen (XHigh)",
+      "score": 92.5,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Google",
+      "release_date": "2026-11-12",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "Gemini 4 Hydrogen (High)",
+      "score": 90.0,
+      "ci": null,
+      "effort": "high",
+      "org": "Google",
+      "release_date": "2026-11-12",
+      "notes": [
+        "Evaluation conducted with 'high' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "Gemini 4 Hydrogen (Medium)",
+      "score": 89.167,
+      "ci": null,
+      "effort": "medium",
+      "org": "Google",
+      "release_date": "2026-11-12",
+      "notes": [
+        "Evaluation conducted with 'medium' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "gemini-4-hydrogen",
+      "model_raw": "Gemini 4 Hydrogen (Low)",
+      "score": 65.833,
+      "ci": null,
+      "effort": "low",
+      "org": "Google",
+      "release_date": "2026-11-12",
+      "notes": [
+        "Evaluation conducted with 'low' reasoning effort using the standard harness."
+      ]
+    },
+    {
+      "benchmark": "arc-agi-2",
+      "model": "inkling-2-mini",
+      "model_raw": "Inkling 2 Mini (XHigh)",
+      "score": 49.306,
+      "ci": null,
+      "effort": "xhigh",
+      "org": "Thinking Machines",
+      "release_date": "2026-11-20",
+      "notes": [
+        "Evaluation conducted with 'xhigh' reasoning effort using the standard harness."
       ]
     }
   ]

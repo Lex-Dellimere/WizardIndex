@@ -1,12 +1,25 @@
 {
   "benchmark": "mirrorcode",
-  "fetched_at": "2026-11-16T15:42:04+00:00",
+  "fetched_at": "2026-11-23T18:20:28+00:00",
   "meta": {
     "url": "https://epoch.ai/benchmarks",
     "via": "https://epoch.ai/benchmarks",
     "credit": "Epoch AI, 'Capabilities & benchmarking', https://epoch.ai/benchmarks (CC BY 4.0)"
   },
   "results": [
+    {
+      "benchmark": "mirrorcode",
+      "model": "kimi-k3-1-pro-together",
+      "model_raw": "kimi-k3.1-pro-together_max",
+      "score": 43.333,
+      "ci": 20.36,
+      "effort": "max",
+      "org": "Moonshot",
+      "release_date": "2026-10-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
     {
       "benchmark": "mirrorcode",
       "model": "large-4-0",
@@ -133,6 +146,19 @@
       "effort": "xhigh",
       "org": "OpenAI",
       "release_date": "2026-04-23",
+      "notes": [
+        "via Epoch AI; source: Epoch AI evaluation"
+      ]
+    },
+    {
+      "benchmark": "mirrorcode",
+      "model": "gpt-6-2-astra",
+      "model_raw": "gpt-6.2-astra_max",
+      "score": 67.778,
+      "ci": 22.87,
+      "effort": "max",
+      "org": "OpenAI",
+      "release_date": "2026-11-17",
       "notes": [
         "via Epoch AI; source: Epoch AI evaluation"
       ]
